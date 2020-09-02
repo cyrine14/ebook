@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/cyrine14/ebook.git/static/css/main.51f2bcd0.chunk.css",
+    "main.js": "/cyrine14/ebook.git/static/js/main.5b60add9.chunk.js",
+    "main.js.map": "/cyrine14/ebook.git/static/js/main.5b60add9.chunk.js.map",
+    "runtime-main.js": "/cyrine14/ebook.git/static/js/runtime-main.6bcd617c.js",
+    "runtime-main.js.map": "/cyrine14/ebook.git/static/js/runtime-main.6bcd617c.js.map",
+    "static/css/2.428f4046.chunk.css": "/cyrine14/ebook.git/static/css/2.428f4046.chunk.css",
+    "static/js/2.5d5d703c.chunk.js": "/cyrine14/ebook.git/static/js/2.5d5d703c.chunk.js",
+    "static/js/2.5d5d703c.chunk.js.map": "/cyrine14/ebook.git/static/js/2.5d5d703c.chunk.js.map",
+    "index.html": "/cyrine14/ebook.git/index.html",
+    "precache-manifest.bbb252ac64c9fca274f245cb462fe90a.js": "/cyrine14/ebook.git/precache-manifest.bbb252ac64c9fca274f245cb462fe90a.js",
+    "service-worker.js": "/cyrine14/ebook.git/service-worker.js",
+    "static/css/2.428f4046.chunk.css.map": "/cyrine14/ebook.git/static/css/2.428f4046.chunk.css.map",
+    "static/css/main.51f2bcd0.chunk.css.map": "/cyrine14/ebook.git/static/css/main.51f2bcd0.chunk.css.map",
+    "static/js/2.5d5d703c.chunk.js.LICENSE.txt": "/cyrine14/ebook.git/static/js/2.5d5d703c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6bcd617c.js",
+    "static/css/2.428f4046.chunk.css",
+    "static/js/2.5d5d703c.chunk.js",
+    "static/css/main.51f2bcd0.chunk.css",
+    "static/js/main.5b60add9.chunk.js"
+  ]
+}

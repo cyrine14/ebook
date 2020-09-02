@@ -1,0 +1,92 @@
+{
+    "books": [
+      {
+        "id": 1,
+        "sku": 1,
+        "title": "Maintenant ou jamais",
+        "description": "On parle beaucoup de crise de la quarantaine, de la cinquantaine, du milieu de vie. En réalité, il s'agit le plus souvent d'une transition qui n'est pas nécessairement critique. ",
+        "book_genre": ["Romance"],
+        "price": 31.600,
+        "isFreeShipping": true
+      },
+      
+    {
+        "id": 2,
+        "sku": 2,
+        "title": "Partir",
+        "description": "« Partir, partir ! Partir n’importe comment, à n’importe quel prix, se noyer, flotter sur l’eau, le ventre gonflé, le visage mangé par le sel, les yeux perdus… »",
+        "book_genre": ["Adventure","Contemporary"],
+        "price": 45.000,
+        "isFreeShipping": true
+      },
+  
+      {
+        "id": 3,
+        "sku": 3,
+        "title": "Je te promets la liberté",
+        "description": "Avec son nouveau roman à suspense, Laurent Gounelle vous entraîne au cœur d’une histoire exaltante dans laquelle vous allez vous perdre… et vous retrouver...",
+        "book_genre": ["Romance","Fantasy"],
+        "price": 64.9000,
+        "isFreeShipping": true
+      },
+  
+      {
+        "id": 4,
+        "sku": 4,
+        "title": "La vie est un roman",
+        "description": "Assurément grand écrivain et grand lecteur, Guillaume Musso revient avec brio sur le métier d'écrire, l'inspiration, la vie réelle et imaginaire..",
+        "book_genre": ["Romance","Fantasy"],
+        "price": 34.9000,
+        "isFreeShipping": true
+      },
+  
+      {
+        "id": 5,
+        "sku": 0,
+        "title": "Ca peut pas rater !",
+        "description": "Je vais me venger de tout. Puisque aucun bonheur ne descendra d'un ciel illusoire, je suis prête à aller chercher le peu qui me revient jusqu'au fond des enfers.",
+        "book_genre": ["Contemporary","Mystery"],
+        "price": 54.9000,
+        "isFreeShipping": true
+      },
+  
+      {
+        "id": 6,
+        "sku": 5,
+        "title": "L'art de perdre",
+        "description": "L'Algérie dont est originaire sa famille n'a longtemps été pour Naïma qu'une toile de fond sans grand intérêt. Pourtant, dans une société française traversée par les questions identitaires, tout semble vouloir la renvoyer à ses origines.",
+        "book_genre": ["Romance","Mystery"],
+        "price": 34.600,
+        "isFreeShipping": true
+      },
+  
+      {
+        "id": 7,
+        "sku": 6,
+        "title": "13 à table !",
+        "description": "13 à table ! vous emmène en voyage... Philippe BESSON - Françoise BOURDIN - Michel BUSSI - Adeline DIEUDONNE - François d'EPENOUX - Eric GIACOMETTI - Karine GIEBEL - Philippe JAENADA - Yasmina KHADRA - Alexandra LAPIERRE - Agnès MARTIN-LUGAND - Nicolas MATHIEU - Véronique OVALDE - Camille PASCAL - Romain PUERTOLAS - Jacques RAVENNE - Leïla SLIMANI. INEDIT. Illustration de Riad Sattouf.",
+        "book_genre": ["Dystopian"],
+        "price": 21.900,
+        "isFreeShipping": true
+      },
+  
+      {
+        "id": 8,
+        "sku": 8,
+        "title": "Les oubliés du dimanche",
+        "description": "Justine, vingt et un ans, vit chez ses grands-parents avec son cousin Jules depuis la mort de leurs parents respectifs dans un accident. Justine est aide-soignante aux Hortensias, une maison de retraite, et aime par-dessus tout les personnes âgées.",
+        "book_genre": ["Contemporary","Dystopian","Mystery","Thriller"],
+        "price": 34.900,
+        "isFreeShipping": true
+      },
+      {
+        "id": 9,
+        "sku": 9,
+        "title": "Le Petit Nicolas a des ennuis",
+        "description": "Tendres et malicieuses, pleine d’humour, les aventures du Petit Nicolas et de ses copains sont un régal pour ceux qui aiment rire !",
+        "book_genre": ["Adventure","Contemporary","Dystopian","Mystery","Thriller"],
+        "price": 34.300,
+        "isFreeShipping": true
+      }
+    ]
+  }

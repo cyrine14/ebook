@@ -12,11 +12,23 @@
     "react-scripts": "3.4.3",
     "yarn": "^1.22.5"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cyrine14/ebook.git"
+  },
+  "author": "cyrine",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cyrine14/ebook/issues"
+  },
+  "homepage": "https://github.com/cyrine14/ebook.git",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": "react-app"

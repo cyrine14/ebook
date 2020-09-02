@@ -15,6 +15,7 @@ export default class Books extends Component {
 
                 <img className="image-book" src={`/books/${book.sku}.png`} alt={book.title} />
                 <p>{book.title}</p>
+                
               </a>
               <div>
                   <b>{book.price} TND</b>

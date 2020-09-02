@@ -20,7 +20,6 @@ export default class Filter extends Component {
         </div>
         <div className="col-md-4">
           <label>
-            {" "}
             Filter Genre
             <select
               className="form-control" value={this.props.genre} onChange={this.props.handleChangeGenre} >
